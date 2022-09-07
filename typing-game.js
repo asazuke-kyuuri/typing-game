@@ -1,7 +1,7 @@
 let resultFinArea=document.getElementById('resultFin');
 let miss=0;
 let game={
-    words:['red','blue','yellow','green','cucumber',],//タイピングする単語
+    words:['red','blue','yellow','green','cucumber','otemae','sisutan','ThanksForPlaying!'],//タイピングする単語
     currentWord:'',//今表示されている単語
     matchedIndex:0,//入力しているのは何文字目か
     startTime:null,//開始時刻
